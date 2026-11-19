@@ -1,0 +1,7 @@
+﻿l_english:
+ games.1.desc_1:0 "The raging sun beats down on the competitors, glistening with oil and sweat. Numerous weeks of events have come and gone, with whispers amok regarding this final event: the [ROOT.GetCountry.Custom('games_event_type')]."
+ got_pelting_guard:0 "knock out an adjacent royal guard with stale bread, hurled from afar"
+ got_riot:0 "start a minor riot near the entrance to the arena"
+ games.2.desc:0 "In true [ROOT.GetCountry.GetAdjective] fashion, our benevolent ruler [ROOT.GetCountry.GetRuler.GetName], has ordained that there will be a period of games and festivity.\n\nWhilst it is not commonplace, numerous of the common populace and court alike, are pondering whether [ROOT.GetCountry.GetRuler.GetPraenomen] [ROOT.GetCountry.GetRuler.GetHerselfHimself] will take to the sands, and prove [ROOT.GetCountry.GetRuler.GetHerHis] bravery for all to see."
+ event_chain_games_tt:0 "Your ruler can obtain extra popularity from competing in the games."
+ scheme_influence_has_tt:1 "Possesses the Influence ambition active."
