@@ -1,0 +1,2 @@
+﻿l_english:
+ MERC_CANT_AFFORD_DEBT:2 "@trigger_no!You require to have at least $COUNT|0Y$ times the disband cost of $COST|Y$@gold! for all mercenaries, including this one, in the bank to sign up a mercenary."

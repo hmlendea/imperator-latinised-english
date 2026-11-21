@@ -1,0 +1,11 @@
+﻿l_english:
+ RESEARCH_COMES_FROM:0 "#T Study Points#!"
+ RESEARCH_MONTHLY_T:0 "#T Monthly Study#!"
+ RESEARCH_EFFICIENCY:1 "Study Points"
+ RESEARCH_EFF_T:0 "Study Efficiency"
+ SPEED_TECH_UX:0 "#T Study Speed#!\n"
+ RES_CITIZEN_CONTRIBUTION:3 "Our Citizens and Nobles produce $VAL|Y2$ study points each month.\n"
+ RES_DIVIDE_POPS:3 "With an production of $RP|Y0$ @research! each year, and $VAL|Y0$ @total_population! Integrated Culture pops, we get an efficiency of $RATIO|2Y%$ for our study.\nMaximum efficiency is unable to be higher than $MAX|0%Y$."
+ RESEARCH_AT_SPEED:4 "$WHY$\n\nThe above means that our current Study Efficiency is $VAL|%Y$.\n\n#TF The primary factor for Study Points generated is how many Citizens we have compared to the rest of our population.#!"
+ RESEARCH_POINTS_DRO:1 "\n\n#TF Study comes primarily from citizens. The happier they are, the more study they will provide. There are also Trade Goods and Omens that can increase Study production.#!"
+ RESEARCH_MONTHLY_EXPL:2 "Monthly $VAL|=+3/%$@research! from $RATIO|Y2%$ Efficiency to reach #G 100%#! over $MONTHS|0Y$ months.\nThis gives the following study:\n"

@@ -1,0 +1,7 @@
+﻿l_english:
+ OFFER_PEACE_SORT_BY_NAME_TOOLTIP:1 "Arrange by Name"
+ OFFER_PEACE_SORT_BY_EXHAUSTION_TOOLTIP:0 "Arrange by Conflict Exhaustion"
+ OFFER_PEACE_SORT_BY_STABILITY_TOOLTIP:0 "Arrange by Stability"
+ OFFER_PEACE_SORT_BY_BLOCKADE_TOOLTIP:0 "Arrange by Number of Blockaded Ports"
+ OFFER_PEACE_SORT_BY_COST_TOOLTIP:0 "Arrange By Cost"
+ OFFER_PEACE_SORT_BY_AE_TOOLTIP:0 "Arrange By Aggressive Expansion"
