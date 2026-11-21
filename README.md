@@ -20,6 +20,7 @@ A localisation mod for Imperator: Rome that overrides selected vanilla Germanic-
 - [Project Structure](#️-project-structure)
   - [Directories](#directories)
 - [Architecture](#️-architecture)
+- [Documentation](#-documentation)
 - [Data Formats and Protocols](#-data-formats-and-protocols)
 - [Contributing](#-contributing)
 - [Code of Conduct](#-code-of-conduct)
@@ -121,7 +122,22 @@ The mod is a set of static localisation files executed by the game. It performs 
 
 Latinised English is a content-only localisation mod whose architecture is the file and key resolution contract of the Imperator: Rome engine.
 
-See the [Architecture Documentation](./ARCHITECTURE.md) for the system context, principal components, runtime flows, ownership boundaries, dependencies, constraints, and extension points.
+See the [Architecture Documentation](./ARCHITECTURE.md) for the system context, principal components, runtime processes, ownership boundaries, dependencies, constraints, and extension points.
+
+## 📚 Documentation
+
+The [repository knowledge base](./docs/INDEX.md) documents the shipped content, the engine contract it relies upon, the authored invariants, and the maintenance procedures. It complements the root architecture rather than duplicating it.
+
+| Resource | Description |
+|----------|-------------|
+| [Documentation index](./docs/INDEX.md) | Complete catalogue, navigation, and review metadata |
+| [Quick start](./docs/quick-start.md) | Installation, verification, and a first override |
+| [Architecture](./docs/architecture.md) | Decomposition, dependency direction, and runtime topology |
+| [Behaviour and flows](./docs/behaviour/localisation-override.md) | Observable override behaviour and end-to-end flows |
+| [Components](./docs/components/mod-content.md) | Content, descriptor, metadata, and packaging deep dives |
+| [Invariants](./docs/invariants.md) | Enforceable content, descriptor, and packaging contracts |
+| [Testing](./docs/testing.md) | Verification strategy, checks, and coverage gaps |
+| [Troubleshooting](./docs/troubleshooting.md) | Diagnostic procedure and recurring problems |
 
 ## 🧾 Data Formats and Protocols
 
