@@ -55,6 +55,9 @@ To compare an override against its vanilla source, open the pair side by side:
 
 ## 📦 Installation
 
+[![Get it from the Workshop](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/steam-workshop.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3843565947)
+[![Get it from GitHub](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/github.png)](https://github.com/hmlendea/imperator-latinised-english/releases)
+
 ### Manual Installation
 
 1. Obtain the repository contents, either by cloning it or by downloading it as an archive.
@@ -100,6 +103,7 @@ The mod is a set of static localisation files executed by the game. It performs 
 | Workflow | Purpose | What it does |
 |----------|---------|--------------|
 | [ github-release.yml ](https://github.com/hmlendea/imperator-latinised-english/blob/master/.github/workflows/github-release.yml) | GitHub Release | Builds `latinised-english_<version>.zip` from the published tag and attaches it to the GitHub release |
+| [ steam-workshop-release.yml ](https://github.com/hmlendea/imperator-latinised-english/blob/master/.github/workflows/steam-workshop-release.yml) | Release to Steam Workshop | Runs on a `v*.*.*` tag push or manual dispatch: checks out the tag, zips and extracts the descriptor and content directory, and uploads the content directory to Workshop item `3843565947` with a changelog link |
 
 ## 🗂️ Project Structure
 
