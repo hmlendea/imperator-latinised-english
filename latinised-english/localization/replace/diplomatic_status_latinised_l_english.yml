@@ -1,0 +1,8 @@
+﻿l_english:
+ diplomatic_status_alliance_tooltip:1 "#T Alliance\n#!Countries in an alliance will frequently come to each other's aid when attacked."
+ diplomatic_status_vassalizing_tooltip:1 "#T Subjects#!\nThese countries may come to the aid of their sovereign if you attack them."
+ diplomatic_status_vassalized_tooltip:1 "#T Overlord#!\nThis country may be protected by their sovereign, if you attack them."
+ diplomatic_status_guaranteed_tooltip:2 "#T Guaranteed#!\nAll countries guaranteeing this nation will unite them in any defensive armed conflict."
+ diplomatic_status_warning_tooltip:1 "#T Warning#!\nIf a country being warned attacks any nation surrounding both themselves and the issuer of the warning, the warning country will receive a Casus Belli on them."
+ diplomatic_status_warned_tooltip:1 "#T Warned#!\nNations being warned will give the country issuing the warning a Casus Belli on them, if they attack any nation which surrounds both parties."
+ diplomatic_status_has_military_access_tooltip:1 "#T Permitted Military Access#!\nThis country is allowed military access by these nations."

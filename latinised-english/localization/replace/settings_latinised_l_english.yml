@@ -1,0 +1,7 @@
+﻿l_english:
+ MAPNAME_MODE_ALWAYS_ON:0 "Invariably on"
+ MAPNAME_MODE_ALWAYS_OFF:0 "Invariably off"
+ SETTING_ADVICE:0 "Counsel on alert"
+ SETTING_ADVICE_TOOLTIP:0 "Determines if counsel and highlights will be shown when clicking an alert icon"
+ SETTING_OUTLINER_CONSTRUCTIONS_BUILDINGS:0 "Show structure constructions"
+ SETTING_OUTLINER_ACTIVE_WARS:0 "Show active conflicts"

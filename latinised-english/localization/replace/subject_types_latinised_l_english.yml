@@ -1,0 +1,5 @@
+﻿l_english:
+ subject_merc_city_state_cost_modifier:0 "Mercenary State Revenue"
+ mg_recruit_cooldown_string:0 "You is unable to perform this action again until [SCOPE.sC('actor').GetVariableExpiry('mg_recruit_cooldown')|Y]"
+ MERC_CITY_MONARCHY_EFFECT:0 "If you have the #Y Monarchy#! government type, once every #Y 5#! years, you can select to depose your current ruler, replacing them with a ruler belonging to one of your #Y Mercenary States#!. This can be done with a #Y Character Interaction#!, and requires the #Y Mercenary Contract Statute#! to be enacted.\n\n"
+ LEAGUE_CITY_STATE_EFFECT_TT:0 "[SCOPE.GetRootScope.GetProvince.GetName|Y] will become a free league city, led by a republican government.\nThey will become our subject, with a bonus to their state trade routes and tradegoods produced. They will not join us in armed conflicts, but will not cost a diplomatic relations slot, and is unable to be integrated."

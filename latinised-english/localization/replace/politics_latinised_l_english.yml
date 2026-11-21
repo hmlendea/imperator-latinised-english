@@ -1,0 +1,13 @@
+﻿l_english:
+ UNREST_BLOCKS:2 "@trigger_no!Unrest is at least $VAL|Y$, so certain actions like recruiting, structure or Pop interaction can no longer occur in this territory."
+ LOYALTY_BLOCKS:2 "@trigger_no!This entire province is disloyal, so certain actions like recruiting, structure or Pop interaction can no longer occur in this territory."
+ TRIBAL_CURRENT_RULER:0 "@trigger_no!The current ruler will be quite dead when a novel ruler is picked."
+ PARTY_NOT_ALLOWED_OFFICE:0 "Not Permitted Office"
+ demand_annexation_impact:0 "Requirement the Annexation of $TARGET$"
+ demand_tribute_impact:0 "Requirement Tribute from $TARGET$"
+ military_access_impact:0 "Request for Military Access through $TARGET$"
+ call_ally_impact:0 "Call $TARGET$ into our Conflicts"
+ barbarian_demand_surrender_impact:0 "Requirement Surrender"
+ barbarian_settle_impact:0 "Permit Barbarians to Settle"
+ ask_to_join_defensive_league_impact:0 "Request $TARGET$ to join their Defensive League"
+ intervene_in_war_impact:0 "Intervene in $TARGET$'s Conflicts"

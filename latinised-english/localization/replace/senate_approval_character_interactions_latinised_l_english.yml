@@ -1,0 +1,13 @@
+﻿l_english:
+ target_is_wealthy_tooltip:0 "Target: has at least #Y 1000#! affluence."
+ party_family_neighbor_tooltip:0 "Target: Same family as neighbour ruler."
+ party_large_opponent:0 "Armed conflict with a stronger opponent."
+ shrewd_ruler_impact_tooltip:1 "Ruler has the #Y Astute#! trait."
+ interference_policy_tooltip:0 "Either Territory Seizure Statute is enacted."
+ not_populism_happy_law_land_reform:0 "Neither Territory Seizure Statute is enacted."
+ from_war_exhaustion_diplo:0 "Country: from Conflict Exhaustion."
+ makes_less_money_diplo:0 "Country: has a lower revenue than target."
+ less_than_yearly_treasury_diplo:0 "Country: Less than #Y 12#! times monthly revenue."
+ days_since_war_diplo:0 "Country: has been at least #Y 2#! years since last armed conflict."
+ land_for_aristocracy_tt:0 "Giving territory to a Head of Family:"
+ land_from_aristocracy_tt:0 "Confiscating Territory from Head of Family:"

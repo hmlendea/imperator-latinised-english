@@ -1,0 +1,9 @@
+﻿l_english:
+ storm_of_the_century_effect_tooltip:0 "Sailors tell us that a great tempest is brewing at sea. We must act quickly or risk angering the gods."
+ naval_apotheosis_effect_ships:0 "For honouring this great deity the faithful are ready to present us with two novel great flagships.\n"
+ convert_pops_omen_nopops:0 "There are no erroneous religion pops in this country. If there had been then up to 5 would have been converted to [deified_ruler.GetHerHis] #Y [deified_ruler.GetReligion.GetName]#! faith."
+ assimilate_pops_omen_nopops:1 "There are no erroneous culture pops in this country. If there had been then up to 5 would have been assimilated to [deified_ruler.GetHerHis] #Y [deified_ruler.GetCulture.GetName]#! culture."
+ apotheosis_population_text:1 "The veneration of #Y [deified_ruler.GetPraenomen]#! inspires novel settlers to migrate to our capital."
+ apotheosis_population_slaves_text:1 "Some privately owned slaves are handed over to the state as we celebrate and honour #Y [deified_ruler.GetPraenomen]#!."
+ apotheosis_defensive_effect_text:1 "Encouraged by the celebrations of #Y [deified_ruler.GetPraenomen]#!, the faithful are willing to take part in the defence of their homes."
+ apotheosis_military_experience_text:1 "The worship of #Y [deified_ruler.GetPraenomen]#! is inspiring those serving in our military to greater feats of fortitude."

@@ -1,0 +1,10 @@
+﻿l_english:
+ construct_buildings_TOOLTIP:1 "#t Construct Outpost Buildings#!"
+ construct_buildings:1 "Construct Outpost Buildings"
+ MACROBUILDER_BUILDING_PRICE:1 "#t Construct $NAME$ in [PROVINCE.GetName]#!\nIt will cost [COUNTRY.GetName] $VALUE$ to construct a $NAME|Y$ in [PROVINCE.GetName], and it will give the following benefits:\n$DESC$\n[PROVINCE.GetPopulationInfo]"
+ MACRO_BUILDER_BUILD_BUILDING_TOOLTIP:0 "#t Construct $NAME$#!\n$DESC$"
+ MARCO_BUILDER_BUILD_BUILDING_INSTRUCTIONS_TOOLTIP:0 "\n#G Left-Click#! will construct a structure.\n#G Right-Click#! will cancel a queued structure, or destroy a structure if there are none queued."
+ MACROBUILDER_UNIT_PRICE:2 "#t Construct $NAME$ in [PROVINCE.GetName]#!\nIt will cost [COUNTRY.GetName] $VALUE$ to construct $NAME|Y$ in [PROVINCE.GetName]"
+ recruit_naval_units:2 "Construct Ships"
+ MACRO_BUILDER_SORT_PROVINCE_NAME_TT:0 "#t Arrange by Province name#!"
+ MACRO_BUILDER_SORT_BUILD_AMOUNT_TT:0 "#t Arrange by Amount you can construct#!"
