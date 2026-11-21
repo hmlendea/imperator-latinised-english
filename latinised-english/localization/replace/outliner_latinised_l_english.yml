@@ -5,6 +5,4 @@
  OUTLINER_CATEGORY_CONSTRUCTIONS_BUILDINGS_TOOLTIP:0 "Structure Constructions"
  OUTLINER_CATEGORY_PROVINCEMODIFIER_TOOLTIP:0 "The currenty construction of urban centres & metropolises, and your current civilisation efforts."
  OUTLINER_CATEGORY_ACTIVE_WARS:0 "Active Conflicts"
- OUTLINER_CATEGORY_ACTIVE_WARS_TOOLTIP:1 "The conflicts that we are currently fighting in."
- OUTLINER_CATEOGRY_GREAT_WORK:0 "Magnificent Wonders"
- OUTLINER_CATEOGRY_GREAT_WORK_TOOLTIP:0 "Magnificent Wonders"
+ OUTLINER_CATEGORY_ACTIVE_WARS_TOOLTIP:1 "The armed conflicts that we are currently fighting in."

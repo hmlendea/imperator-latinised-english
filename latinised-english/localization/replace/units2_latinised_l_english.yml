@@ -1,6 +1,6 @@
 ﻿l_english:
  ASSAULT_ORDER:2 "#T Order Assault#!\n#TF Giving an order to assault will be costly in manpower, but it may force a rapid result of the siege.#!"
- ASSAULT_TOO_FEW_COHORTS:0 "@trigger_no!There are not sufficient males in this siege to do an assault."
+ ASSAULT_TOO_FEW_COHORTS:0 "@trigger_no!There are insufficient men in this siege to do an assault."
  REORGANIZE_WINDOW_TITLE:0 "Reorganise"
  ASSAULT_DESC:0 "#TF Giving an order to assault will be costly in manpower, but it may force a rapid result of the siege.#!"
  UNIT_ASSAULT_POWER_DETAILED:0 "The effective vigour of [UNIT.GetName|E] is [UNIT.GetAssaultStrength|2=+]."

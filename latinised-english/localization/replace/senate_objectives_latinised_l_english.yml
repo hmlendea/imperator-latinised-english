@@ -20,7 +20,6 @@
  senate_objective_change_law_tra_generic_tt_3:2 "[sen_obj_cha_law_oli_party.GetCountry.GetName] has passed the '#Y $republican_citizen_3$#!' statute."
  senate_objective_change_law_tra_generic_tt_4:0 "[sen_obj_cha_law_tra_party.GetCountry.GetName] has passed the '#Y $republican_mediterranean_3$#!' statute."
  senate_objective_change_law_tra_generic_tt_5:2 "[sen_obj_cha_law_dem_party.GetCountry.GetName] has passed the '#Y $republic_corruption_1$#!' statute."
- senate_objective_declare_war_generic:1 "Declare Conflict"
  senate_objective_declare_war_generic_DESC:1 "The $oligarchic_party$ wish to bring our country into conflict with a adjacent power in order to expand our influence and profit from the conflict."
  senate_objective_grant_holdings_generic_DESC:1 "The $oligarchic_party$ seek to reinforce their own entrenched position as the most powerful members of our society by granting state territories to themselves."
  senate_objective_lengthen_terms_generic_tt_1:0 "[sen_obj_len_ter_gen_party.GetCountry.GetName] has passed one of the following statutes:\n    \t'#Y $republican_election_1$#!'\n    \t'#Y $republican_election_2$#!'\n    \t'#Y $republican_election_4$#!'"
@@ -41,4 +40,4 @@
  senate_objective_enemy_shrine_generic_DESC:0 "The $traditionalist_party$ resent the presence of a sacred site to foreign gods in our country, and would see it torn down as an affront to the true gods."
  senate_objective_enemy_shrine_generic_tt_1:0 "[sen_obj_ene_shr_party.GetCountry.GetName] has sacked the sacred site of [sen_obj_ene_shr_target.GetName]."
  senate_objective_enemy_shrine_generic_tt_2:0 "The sacred site of [sen_obj_ene_shr_target.GetName] is dedicated to a [sen_obj_ene_shr_party.GetCountry.GetReligion.GetName] deity."
- law_change_category_tt:0 "A statute in the identical category has not recently been pushed as part of another party's agenda."
+ law_change_category_tt:0 "A statute in the same category has not recently been pushed as part of another party's agenda."

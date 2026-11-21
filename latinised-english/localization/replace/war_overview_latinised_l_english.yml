@@ -1,5 +1,5 @@
 ﻿l_english:
  WARGOAL_IS_CONQUEST:0 "#T Conflict Goal Enforced#!\n"
  WARGOAL_IS_SAFE:0 "#T Conflict Goal Protected#!\n"
- WAR_OVERVIEW_DATE_TOOLTIP:0 "Conflict started on [WarOverview.GetWar.GetStartDate]"
- WAR_OVERVIEW_WAR_GOAL_TOOLTIP:0 "This conflict was started by [WarOverview.GetWar.GetOriginalAttacker.GetName] versus [WarOverview.GetWar.GetOriginalDefender.GetName].\n[WarOverview.GetWar.GetWarGoal.GetDescription]"
+ WAR_OVERVIEW_DATE_TOOLTIP:0 "Armed conflict started on [WarOverview.GetWar.GetStartDate]"
+ WAR_OVERVIEW_WAR_GOAL_TOOLTIP:0 "This armed conflict was started by [WarOverview.GetWar.GetOriginalAttacker.GetName] versus [WarOverview.GetWar.GetOriginalDefender.GetName].\n[WarOverview.GetWar.GetWarGoal.GetDescription]"

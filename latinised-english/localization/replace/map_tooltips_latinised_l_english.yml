@@ -1,2 +1,0 @@
-﻿l_english:
- PROVINCE_TOOLTIP_trade_routes:0 "Incoming exchange routes: [PROVINCE.GetState.GetNumIncomingTrades|Y]\nOutgoing exchange routes: [PROVINCE.GetState.GetNumOutgoingTrades|Y]\nUnused exchange routes: [PROVINCE.GetState.GetNumUnusedTradeRoutes|Y]\n"

@@ -1,7 +1,6 @@
 ﻿l_english:
  ADVICE_CHANGE_LAWS_BTN:0 "Enact Statute"
  ADVICE_FARM_BTN:0 "Construct Farm"
- ADVICE_DISLOYAL_CHAR_SUMMARY:0 "It is dangerous to distress important characters such as generals and governors. We should keep our friends close, but our enemies closer."
  ADVICE_DISLOYAL_CHAR_FALLBACK_TITLE:0 "No Available Counsel"
  ADVICE_DISLOYAL_CHAR_DONOTHING:0 "We could simply wait for [SCOPE.sChar('target').GetName] to change their mind, or maybe even perish of old age."
  ADVICE_PRETENDER_SUMMARY:0 "There are ungrateful nobles hoping to place their puppet on the throne. We need to get them back in line!"
@@ -11,9 +10,7 @@
  ADVICE_PRETENDER_ALLEGIANCE:0 "Demanding an oath of allegiance from our nobles is a good method of ensuring their support for our chosen heir."
  ADVICE_PRETENDER_SUPPORTHEIR_TITLE:0 "Require Support for Heir"
  ADVICE_PRETENDER_SUPPORTHEIR_BTN:0 "Require Support"
- ADVICE_PRETENDER_SUPPORTHEIR:0 "[SCOPE.sChar('target').GetName] is a loyal subject and just temporarily misguided. We only require to ask them for their support."
  ADVICE_PRETENDER_FALLBACK_TITLE:0 "No Available Counsel"
- ADVICE_CIVILWAR_TITLE:0 "Risk of Civil Conflict: [SCOPE.sChar('target').GetName]"
  ADVICE_CIVILWAR_SUMMARY:0 "We have powerful people who are threatening to tear our nation apart. We must sway them, eliminate them or fight them."
  ADVICE_CIVILWAR_PREPARE_YOUR_ARMY:0 "Let us make preparations to encounter our foes on the field of battle."
  ADVICE_CIVILWAR_FALLBACK_TITLE:0 "No Available Counsel"
