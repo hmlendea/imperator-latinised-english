@@ -1,3 +1,4 @@
+[![Build Status](https://github.com/hmlendea/imperator-latinised-english/actions/workflows/github-release.yml/badge.svg)](https://github.com/hmlendea/imperator-latinised-english/actions/workflows/github-release.yml)
 [![License](https://img.shields.io/github/license/hmlendea/imperator-latinised-english)](https://github.com/hmlendea/imperator-latinised-english/blob/master/LICENSE)
 
 # Latinised English
@@ -15,6 +16,7 @@ A localisation mod for Imperator: Rome that overrides selected vanilla English s
 - [Localisation](#-localisation)
 - [Compatibility](#-compatibility)
 - [Privacy and Data](#️-privacy-and-data)
+- [GitHub Actions](#-github-actions)
 - [Project Structure](#️-project-structure)
   - [Directories](#directories)
 - [Architecture](#️-architecture)
@@ -92,6 +94,12 @@ Latinised English collects no personal data and contains no runtime component.
 For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
 
 The mod is a set of static localisation files executed by the game. It performs no collection, transmission, or storage of data, and it does not read any application data produced by the game.
+
+## ⚙️ GitHub Actions
+
+| Workflow | Purpose | What it does |
+|----------|---------|--------------|
+| [ github-release.yml ](https://github.com/hmlendea/imperator-latinised-english/blob/master/.github/workflows/github-release.yml) | GitHub Release | Builds `latinised-english_<version>.zip` from the published tag and attaches it to the GitHub release |
 
 ## 🗂️ Project Structure
 
